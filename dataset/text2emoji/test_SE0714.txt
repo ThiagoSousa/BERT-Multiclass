@@ -1,0 +1,250 @@
+[False, False, False]	Second drop in cancer deaths could point to a trend, researchers say
+[False, False, False]	Guinea capital largely calm under curfew, marital law
+[False, False, False]	Porn ring scandal reaches Australia
+[False, False, False]	Rowling 'heartbroken,' 'euphoric' at 'Potter's' end
+[False, False, False]	Israel to install cameras to show live Mughrabi footage
+[False, False, True]	7 Die As US Helicopter Crashes in Iraq
+[False, False, False]	Dolphins, sea lions may report for duty soon
+[False, False, False]	Breast Cancer Awareness is Important
+[False, False, True]	Parachutist dies at bridge-jump festival
+[False, False, False]	Advantage Cardinals with Suppan in Game 4
+[False, False, False]	Loving with all your ... brain
+[False, False, False]	Study: Male sweat causes female hormones to rise
+[False, False, False]	Secret hotels in Irish countryside
+[False, False, False]	Pats' fourth-quarter rally finishes Chargers
+[False, False, False]	Excerpt: Politicians and the press
+[False, False, False]	U.S. online love brokers eye China
+[False, False, False]	Libby defense upsets judge, rests
+[False, False, False]	Mickelson driving force at masters
+[False, False, False]	Manila hints at ransom approval
+[False, False, False]	Catania punished for fan violence
+[False, False, False]	Hastert sorry for scandal but not quitting
+[False, False, False]	Horse teeth give details of ancient big chill
+[False, False, False]	Australian PM stands by Obama attack
+[False, False, False]	Wizardry at Harvard: physicists move light
+[False, False, False]	Carphone Warehouse's mixed signals
+[False, False, False]	Did NASA accidentally kill life on Mars?
+[False, False, True]	Gunmen kill 11 in Iraq TV raid 
+[False, False, False]	Tracking down hi-tech crime
+[False, False, False]	'Made in China' irks some Burberry shoppers
+[False, False, True]	Anna Nicole Smith fans mourn in cyberspace
+[False, False, False]	Ex-suspect slams anti-terror laws
+[False, False, False]	Opponent is put on the spot over remarks about Clinton
+[False, False, False]	Carrefour sales growth falls short
+[False, False, False]	Across Europe, Worries on Islam Spread to Center
+[False, False, False]	Arthurs upsets Robredo in first round at the St. Petersburg Open
+[False, False, False]	Bush: It's time for Congress to back energy plan
+[False, False, False]	Gently Weeps' lyrics sheet up for sale
+[True, False, False]	Bush declares Iran's arms role in Iraq is certain
+[False, False, True]	Yankee Dies in Plane Crash, Official Says
+[False, False, False]	Afghan poppy war alienates farmers
+[False, False, False]	Palestinians say clashes hurt their cause
+[False, False, False]	Area should get 3-5 inches of snow today
+[False, False, False]	A nap a day may keep the heart doctor away
+[False, False, False]	Bird watchers flock to see rare owl
+[False, False, False]	Real suffer Carlos injury setback
+[False, True, False]	Township tourism booming in South Africa
+[False, False, False]	US to prod NATO allies for more troops to defeat Taliban
+[False, False, False]	Paris police investigate package at Canadian embassy
+[False, False, False]	Stonehenge workers' village found
+[False, False, False]	Tiempo Libre has Grammy dreams
+[True, False, False]	Al Qaeda chiefs are seen to regain power
+[False, True, False]	Surprise: China cuts price of gas
+[False, False, False]	FDA revises label warnings on the antibiotic Ketek
+[False, False, False]	Beating poverty in a small way
+[False, False, False]	Super Bowl MVP Manning insists he's one of the guys
+[False, False, False]	Essay: about that mean streak of yours: psychiatry can do only so much
+[False, True, False]	European shares hit fresh highs
+[False, False, False]	Space life search turns to TV
+[False, False, False]	Tourism lags in Bush's hometown
+[False, False, False]	Rowdy fans ejected from the Open
+[False, False, False]	The secrets people reveal
+[False, False, False]	Bucs find a new kick in life
+[False, False, False]	Scientists discover miracle in the depths
+[False, False, False]	'Grey's,' 'Pirates' lead People's Choice
+[False, False, False]	Fuel spill may lead to missing jet
+[False, False, True]	Beating leaves teen in coma
+[False, False, False]	Japan: Whaling activists 'terrorists'
+[False, False, False]	Turner pays for Boston "bombing"
+[False, False, False]	Grammys ready to name winners
+[True, False, True]	Abbas condemns Israeli massacre in northern Gaza Strip
+[False, False, False]	Blair apologises over friendly fire inquest
+[False, False, False]	Real Mallorca rock leaders Sevilla
+[False, False, False]	Roddick, Murray score in San Jose
+[False, False, False]	Foetal mechanism helps heart failure
+[False, False, False]	Peter Pan flies into chapter two 
+[False, False, True]	Oregon snorkeler mistaken for rodent, shot in face
+[False, True, False]	Discovered boys bring shock, joy
+[False, False, False]	A personal plea for HPV vaccine plan
+[False, False, False]	Blog: Here come the Globes!
+[False, True, False]	Morrissey may cheer up Eurovision
+[False, False, False]	China: Cheney shores up the trilateral alliance
+[False, True, False]	Friends for Life: An Emerging Biology of Emotional Healing
+[False, False, True]	US Troops Killed In October In Iraq
+[False, False, False]	Royal seeks to revive French bid
+[False, False, False]	Fortune: Looking beyond the iPhone
+[False, False, False]	Kuerten returns to winners' circle
+[False, False, False]	Resolution approved for international games
+[False, False, False]	This week in auto racing October 27 - October 29
+[False, False, False]	Mickelson, Sutherland share lead
+[False, False, False]	Rebels to join Nepal parliament
+[True, False, False]	Ukraine gas deal marred by fears
+[False, False, False]	Presto! He's Batman, then magic man
+[True, False, False]	Firms on alert for letter bombs
+[True, False, False]	Freed kidnap suspect: my terror at police raid
+[False, False, True]	Sri Lanka floods displace 60,000
+[False, False, False]	Photographer kidnapping condemned
+[False, False, False]	Skip the showers: male sweat turns women on, study says
+[True, False, False]	Outcry at N Korea 'nuclear test'
+[False, False, False]	Congolese soldiers riot, loot over pay issue
+[False, False, False]	Merck: Gardasil may fight more strains
+[False, False, False]	Israel weighs old city project webcast
+[False, False, False]	YouTube yields surprising payback
+[False, True, False]	Golden Globes on their way
+[False, False, False]	Barack Obama formally announces bid for president
+[False, False, False]	Women protest Pakistan demolition
+[True, False, False]	Ottawa must redefine 'terror'
+[False, False, False]	In clue to addiction, brain injury halts smoking
+[False, False, False]	POLITICS-US: reprieve for officer who denounced "Immoral War"
+[True, False, False]	Kidnappers seize two in Nigeria
+[False, False, False]	Paula Abdul: 'I have never been drunk'
+[False, False, False]	UK soldiers cleared of Iraq abuse
+[False, True, False]	Spacewalker sets new U.S. record
+[False, False, True]	Equipment on Plane in Brazil Collision May Have Been Faulty
+[False, False, False]	Obama will run in 2008
+[False, False, False]	'Dr. McDreamy' choked in 'Grey's' scuffle 
+[False, False, False]	U.S. diverts troops to fight Taliban
+[False, False, False]	Google unveils do-it-yourself search engine
+[False, False, False]	Britain to restrict immigrants from new EU members
+[False, False, False]	Apple set for massive market gains
+[False, False, False]	Cohn gunman jailed for 36 years 
+[False, False, False]	Hurricane Paul Weakens To Tropical Storm
+[False, False, False]	At Libby trial, Russert of NBC gives and gets
+[False, False, False]	Mistrial declared in teacher-student rape case
+[False, False, False]	Shareholders sue Apple
+[False, False, False]	Moderate drinking reduces men's heart attack risk
+[False, False, False]	Confusion Reigns In the Expanding Digital World
+[False, False, False]	Latest food-fad -- 'space potatoes'
+[False, False, False]	U.S. opens door for Iraqi refugees
+[False, False, False]	Vietnamese bank plans IPO listing
+[False, False, False]	Iraq unveils new security plans
+[False, False, False]	Cher's dress, car, bed have new owners
+[False, False, False]	Black hole triplets spotted
+[False, False, False]	Livingstone's transport empire may extend
+[False, False, True]	Storm leaves behind major travel troubles
+[False, False, False]	China considers Eurobond reserves
+[False, False, False]	Software giant SAP misses target
+[False, False, False]	Research supports medicinal marijuana
+[False, False, False]	No buyer in sight for Napster
+[False, False, False]	Bebe Neuwirth gets to 'wiggle again'
+[False, False, False]	Corn stoves popping up in U.S. homes
+[False, False, False]	What Newsom faces in aftermath of scandal
+[False, False, False]	Kentucky seeks alcohol huffing ban
+[False, True, False]	Making peace from victory over poverty
+[False, False, False]	No intention of war with Iran, US says
+[False, False, False]	Bangladesh ends curfew amid unrest
+[False, False, False]	Scientists create first cloaking device
+[False, False, False]	Inconvenient truths
+[False, False, False]	Sarkozy heads for clash in cartoons row
+[False, False, False]	Two Muslim groups sue French newspaper International
+[False, False, True]	Two Palestinians killed near fence
+[False, True, False]	Isinbayeva sets 20th world record
+[False, False, False]	PS3 pricey but impressive
+[False, False, False]	A Mistrial for Lieut. Watada
+[False, True, False]	Marathon winner released from hospital 
+[True, False, False]	Deadly bird flu confirmed in British Turkeys
+[False, False, False]	Second opinion: girl or boy? as fertility technology advances, so does an ethical debate
+[False, False, False]	On road to Kosovo independence, a warning: go slow
+[False, False, False]	Basics: a mammal in winter with a furnace of her own
+[False, False, True]	Human error caused Helios crash
+[False, False, False]	High cholesterol raises stroke risk healthy women
+[False, False, False]	Ingredient in male sweat raises women's hormone levels
+[False, False, False]	Zach Braff says he has 'mild depression'
+[False, False, False]	Vital Signs: Hazards: Antidepressant linked to fractures in older people
+[False, False, True]	As inflation soars, Zimbabwe economy plunges
+[False, False, False]	Princess Masako author: No regrets
+[False, False, False]	Whether to save cord blood can be puzzle for parents
+[False, False, False]	Attorneys point fingers in fight between Ryan O'Neal and son
+[False, False, False]	Cher auction fetches double pre-sale estimates
+[False, True, False]	Breast cancer drug promises hope
+[False, False, False]	Bears fan loses bet and changes name
+[False, False, True]	Slain Amish girls laid to rest
+[False, False, False]	Houston, she's got some problems
+[False, False, False]	Palestinian factions to resume talks
+[False, False, False]	Ex-JonBenet suspect: Child porn case dropped 
+[False, False, False]	Ganguly handed India squad call-up
+[False, False, False]	Findings : A cool $25 million for a climate backup plan
+[False, False, False]	James Brown's 5-year-old son left out of will
+[True, False, True]	Trolley Square shooting leaves 6 dead, including gunman
+[False, False, False]	Ice stops trolleys cold
+[False, False, False]	Diabetic waits months for eyeglasses
+[False, False, False]	Pap Test, a mainstay against cervical cancer, may be fading
+[False, False, False]	News analysis: Iranian boast is put to test
+[False, False, False]	Madonna adoption bid approved 
+[False, False, False]	Madrid bombings trial begins
+[False, True, False]	Madonna's New Tot 'Happy at Home' in London
+[False, True, False]	Immigrants and French Reach Deal in Standoff
+[False, False, False]	Can North Korea be trusted?
+[False, False, False]	Weekly Nielsen will 'Lost' find its way back?
+[False, True, False]	Blissing out in Ojai
+[False, True, False]	Canete wins inaugural Joburg Open
+[False, False, False]	Shareholders sue Apple
+[False, False, False]	US Airways boosts bid for Delta
+[False, False, False]	Iraqi sunni lands show new oil and gas promise
+[False, False, False]	10 don't-miss tax breaks
+[False, False, False]	Officers had 'rapport' with alleged abductor
+[False, False, False]	Republicans plan to block Iraq debate
+[False, False, False]	North Korea aid demand stall talks
+[False, False, False]	Passing exchange becomes political flashpoint
+[False, False, False]	Investigation of child porn site hits 77 nations
+[True, False, True]	Gunmen kill 9 at Iraqi TV station
+[True, False, False]	Taliban seize rural district in southwest as police flee
+[False, False, False]	Philippine anti-terror law delayed until June
+[False, False, False]	New Indonesia Calamity, a Mud Bath, Is Man-Made
+[False, False, False]	Anger at release of two held over beheading plot
+[False, False, False]	Brith Airways baggage charges cause confusion
+[False, False, False]	Murphys rule box office with 'Norbit'
+[False, False, True]	Iraqi death toll exceeded 34,000 in 2006, United Nations says
+[False, False, False]	China says rich countries should take lead on global warming
+[True, False, False]	Iraq insurgents attack US base
+[False, False, False]	U.N. Force Is Treading Lightly on Lebanese Soil
+[False, False, False]	Turkish Writers Say Efforts to Stifle Speech May Backfire
+[False, True, False]	Far away, Super Bowl's losers will be champs
+[False, False, False]	Christian values guide Dungy and the Colts
+[False, False, False]	Closings and cancellations top advice on flu outbreak
+[False, False, False]	Dell to cut bonuses, trim management
+[False, False, False]	Hatton hands back IBF title again
+[False, False, False]	Beware of peanut butter pathogens
+[False, False, True]	Hussein's niece pleads for father's life
+[False, False, False]	China launches two satellites into orbit
+[False, False, False]	Archaeologists find signs of early chimps' tool use
+[False, False, False]	Stop cancer with a shot
+[False, False, False]	Sick hearts switch on a fetal gene
+[False, False, False]	Martins leads Newcastle fightback
+[False, False, False]	Action intensity boosts vision
+[False, False, False]	Questions on credit card safety
+[False, False, False]	Porn star candidate campaigns on campus
+[False, False, False]	Bernhard set to leave Volkswagen
+[False, True, False]	Las Vegas honour for tiger pair 
+[False, False, False]	Teacher in Hiding After Attack on Islam Stirs Threats
+[False, False, False]	Tow truck drivers accused of stealing cars
+[False, False, False]	Apple drops bombshell with iPhone
+[False, False, False]	Dow hits new record, eyes 12,000 
+[False, True, False]	Beckham goal helps Real snatch win
+[False, False, True]	New Indonesia Calamity, a Mud Bath, Is Man-Made
+[False, False, False]	Canadians tracked in child porn ring
+[False, False, False]	U.S. at odds with cleric's aide
+[False, False, False]	Rwanda mulls three-child limit
+[False, True, False]	Dance movie takes over No. 1
+[False, False, False]	Stars scuffle on 'Grey's Anatomy'
+[False, False, False]	Italy drops Sicily bridge plans 
+[False, False, False]	Work starts on Arctic seed vault
+[True, False, False]	China's 'nightmare scenario'
+[False, False, False]	Kerry blasts 'escalation of misguided war'
+[False, False, False]	Archaeologists find remains of couple locked in a hug
+[False, False, False]	YouTube told to drop celeb sex video
+[False, False, False]	Shiite fighters arrested in crackdown, Iraq says
+[False, False, False]	Nokia 5300 Xpress Music
+[False, False, False]	New York City may ban iPods while crossing street
+[False, False, False]	Asia seeks breakthrough on North Korea
+[False, False, False]	Internet attacked! (Did anyone notice?)
