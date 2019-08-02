@@ -42,10 +42,10 @@ In both cases, *--task_name* represents the task to be executed: the referred Pr
 
 To test this method I used four datasets available in the literature: 
 
-* **Movie Lens**: ML100k dataset from [GroupLens](https://grouplens.org/datasets/movielens/). The title and summary of a movie to predict the genres of a movie.
-* **SE0714**: SE0714 dataset from [Deepmoji](https://arxiv.org/pdf/1708.00524.pdf). The text is used to predict the emoji related to the text. 
-* **PsychExpEmoji**: SE0714 dataset from [Deepmoji](https://arxiv.org/pdf/1708.00524.pdf). The text is used to predict the emoji related to the text. 
-* **Toxic**: Toxic Comments from [Kaggle competition](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data).  Dataset used to predict the class of toxic comments in the text. For Toxic, only the probabilities of a commentary belonging to each class is predicted
+* **Movie Lens**: ML100k dataset from [GroupLens](https://grouplens.org/datasets/movielens/). The title and summary of a movie to predict the genres of a movie. Task name is *movielens*.
+* **SE0714**: SE0714 dataset from [Deepmoji](https://arxiv.org/pdf/1708.00524.pdf). The text is used to predict the emoji related to the text. Task name is *se0714*.
+* **PsychExpEmoji**: SE0714 dataset from [Deepmoji](https://arxiv.org/pdf/1708.00524.pdf). The text is used to predict the emoji related to the text. Task name is *psychexp*.
+* **Toxic**: Toxic Comments from [Kaggle competition](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data).  Dataset used to predict the class of toxic comments in the text. For Toxic, only the probabilities of a commentary belonging to each class is predictedTask name is *toxic*.
 
 The implementation was tested on these datasets. And the best results obtained on them are shown below. We don't show each individual class due to space limitations. For dynamic cut-off type, the dataset was divided in train, dev and test sets. For all cases BERT-Base is used to train and test.
 
