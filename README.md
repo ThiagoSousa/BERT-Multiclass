@@ -51,7 +51,7 @@ The implementation was tested on these datasets. And the best results obtained o
 
 | Dataset | Max Length | Training Epochs | Cut-off type | Add Dense-layer? | AUC | Hamming Loss | F1 |
 | ------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |
-| Movie Lens  128  | 4 | Dynamic  | No |0.895536278 |	0.092306414 |	0.672362743 |
-| SE0714  128  | 4  | Dynamic | Yes |0.934132073 |	0.057333333 |	0.678547981 |
-| PsychExpEmoji  140  | 4 | Dynamic  | Yes | 0.922672041 | 0.080309396	| 0.732810139 |
-| Toxic  140  | 4  | Dynamic | Yes | 0.98606 | NA	| NA |
+| Movie Lens | 128  | 4 | Dynamic  | No |0.895536278 |	0.092306414 |	0.672362743 |
+| SE0714 | 128  | 4  | Dynamic | Yes |0.934132073 |	0.057333333 |	0.678547981 |
+| PsychExpEmoji | 140  | 4 | Dynamic  | Yes | 0.922672041 | 0.080309396	| 0.732810139 |
+| Toxic | 140  | 4  | Dynamic | Yes | 0.98606 | NA	| NA |
