@@ -53,5 +53,5 @@ The implementation was tested on these datasets. And the best results obtained o
 | ------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |
 | Movie Lens | 128  | 4 | Dynamic  | No |0.89554 |	0.09231 |	0.67236 |
 | SE0714 | 128  | 4  | Dynamic | Yes |0.93413 |	0.0573 |	0.67855 |
-| PsychExpEmoji | 140  | 4 | Dynamic  | Yes | 0.9227 | 0.08031	| 0.73281 |
-| Toxic | 140  | 4  | Dynamic | Yes | 0.98606 | NA	| NA |
+| PsychExpEmoji | 140  | 4 | Dynamic  | No | 0.9227 | 0.08031	| 0.73281 |
+| Toxic | 140  | 2 | NA | No | 0.98606 | NA	| NA |
