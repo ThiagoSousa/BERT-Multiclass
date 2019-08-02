@@ -1,4 +1,4 @@
-# BERT
+# BERT Multi-label classification
 
 This repository contains an implementation of BERT fine-tuning for Multi-label classification. In this case, the goal is to classify a document into one or more classes/labels. It is a generalization of the multiclass classification problem and the same implementation can be used for it. This implementation is based on [BERT](https://arxiv.org/pdf/1810.04805.pdf).
 
