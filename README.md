@@ -47,11 +47,11 @@ To test this method I used four datasets available in the literature:
 * **PsychExpEmoji**: SE0714 dataset from [Deepmoji](https://arxiv.org/pdf/1708.00524.pdf). The text is used to predict the emoji related to the text. Task name is *psychexp*.
 * **Toxic**: Toxic Comments from [Kaggle competition](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data).  Dataset used to predict the class of toxic comments in the text. For Toxic, only the probabilities of a commentary belonging to each class is predictedTask name is *toxic*.
 
-The implementation was tested on these datasets. And the best results obtained on them are shown below. We don't show each individual class due to space limitations. For dynamic cut-off type, the dataset was divided in train, dev and test sets. For all cases BERT-Base is used to train and test.
+The implementation was tested on these datasets. And the best results obtained on them are shown below. We don't show each individual class due to space limitations. For dynamic cut-off type, the dataset was divided in train, dev and test sets. For all cases BERT-Base uncased was used to train and test.
 
-| Dataset | BERT pre-trained model used  | Max Length | Training Epochs | Cut-off type |Add Dense-layer? | AUC | Hamming Loss | F1 |
-| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |
-| Movie Lens | BERT-Base Uncased   | 128  | 4 | Dynamic  | No |0.895536278 |	0.092306414 |	0.672362743 |
-| SE0714 | BERT-Base Uncased   | 128  | 4  | Dynamic | Yes |0.934132073 |	0.057333333 |	0.678547981 |
-| PsychExpEmoji | BERT-Base Uncased   | 140  | 4 | Dynamic  | Yes | 0.922672041 | 0.080309396	| 0.732810139 |
-| Toxic | BERT-Base Uncased  | 140  | 4  | Dynamic | Yes | 0.98606 | NA	| NA |
+| Dataset | Max Length | Training Epochs | Cut-off type | Add Dense-layer? | AUC | Hamming Loss | F1 |
+| ------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |
+| Movie Lens  128  | 4 | Dynamic  | No |0.895536278 |	0.092306414 |	0.672362743 |
+| SE0714  128  | 4  | Dynamic | Yes |0.934132073 |	0.057333333 |	0.678547981 |
+| PsychExpEmoji  140  | 4 | Dynamic  | Yes | 0.922672041 | 0.080309396	| 0.732810139 |
+| Toxic  140  | 4  | Dynamic | Yes | 0.98606 | NA	| NA |
